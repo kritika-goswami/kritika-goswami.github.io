@@ -188,6 +188,7 @@ p {
 	color:gray;
 	margin-left:434px;
 }
+
 .time{
 	color:gray;
 	font-size:12px;
@@ -208,16 +209,8 @@ p {
 	height:33px;
 	width:500px;
 }
-.comment-btn{
-	height:33px;
-	border:1px solid silver;
-	background-color:#e4e0df;
-	color:black;
-	position:relative;
-	bottom:33px;
-	top:-36px;
-	left:545px;
-}
+
+
 #list{
 	font-size:13px;
 	margin-left:-35px;
@@ -246,7 +239,16 @@ margin-bottom:30px;
 	margin-top:-25px;
 }
 
+.notification
+{
+	position:relative;
+	background-color:red;
+	color:white;
+	margin:-20px;
+    border-radius:16%;
+	margin-left:-20px;
 
+}
 
 
 
