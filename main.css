@@ -188,6 +188,20 @@ p {
 	color:gray;
 	margin-left:434px;
 }
+.glyphicon-quote3{
+	font-size:10px;
+	position:relative;
+	margin-top:-3px;
+	color:gray;
+	margin-left:320px;
+}
+.glyphicon-quote4{
+	font-size:10px;
+	position:relative;
+	margin-top:-3px;
+	color:gray;
+	margin-left:435px;
+}
 
 .time{
 	color:gray;
@@ -242,10 +256,12 @@ margin-bottom:30px;
 .notification
 {
 	position:relative;
+	bottom:-5px;
+	 border-radius:16%;
 	background-color:red;
 	color:white;
 	margin:-20px;
-    border-radius:16%;
+   
 	margin-left:-20px;
 
 }
